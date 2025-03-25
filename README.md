@@ -16,13 +16,13 @@
 | ------------------ | ------------------------------------------------------------ |
 | [🍕Materials](https://github.com/openbuildxyz/Monad-101-Bootcamp/discussions/categories/materials)         | 课外资料/课堂笔记（欢迎贡献）  |
 | [🙏 Q&A](https://github.com/openbuildxyz/Monad-101-Bootcamp/discussions/categories/q-a)              | 提问 / 知识答疑   |
-| 💡[I've got an idea!](https://github.com/openbuildxyz/Monad-101-Bootcamp/discussions/categories/i-ve-got-an-idea)   | 关于一些 Amazing fancy ideas, 用来<br />1. Solidity 共学 <br />2. Monad 技术分享<br />3. 技术文章<br />4. 共建 [gmonad.cc](https://gmonad.cc/)<br />5. 自娱自乐🎣<br /> |
+| 💡[I've got an idea!](https://github.com/openbuildxyz/Monad-101-Bootcamp/discussions/categories/i-ve-got-an-idea)   | 关于一些 Amazing fancy ideas, 用来<br />1. Solidity 共学 <br />2. Monad 技术分享<br />3. 技术文章<br />4. 共建 [gmonad.cc](https://gmonad.cc/)<br />5. 自娱自乐<br /> |
 
 ### ⭐ 核心亮点 ⭐
 
-♂️ OpenBuild技术导师 + 助教团队，小白友好型氛围  
-🏫 录播课 + 研讨会 + 免费知识库，学习灵活高效  
-🙌 免费学习 + 官方背书，资源丰富  
+🚀 技术导师 + 助教团队，小白友好型氛围  
+📚 录播课 + 研讨会 + 免费知识库，学习灵活高效  
+🎓 免费学习 + 官方背书，资源丰富  
 ✅ 认证证书，边学边提升竞争力  
 
 
