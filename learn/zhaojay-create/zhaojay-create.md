@@ -1,6 +1,6 @@
 ## zhaojay-create
 
-- 昵称：小符
+- 昵称：zaoc
 - GitHub 用户名：zhaojay-create
 - 技术栈： React, Solidity
 - Twitter: https://x.com/jayzhao26819
