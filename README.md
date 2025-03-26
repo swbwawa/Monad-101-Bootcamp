@@ -51,12 +51,12 @@
 
 ### ⭐ 课程大纲 ⭐
 
-**第一章：走进 Web3 世界**  |  [课件](https://file-cdn.openbuild.xyz/course/2060691796/Monad101_Solidity%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.pdf)
+**第一章：走进 Web3 世界**  |  [课件](https://file-cdn.openbuild.xyz/course/2060691796/Monad101_%E8%B5%B0%E8%BF%9BWeb3%E4%B8%96%E7%95%8C.pdf)
 
 1. 走进 Web3 世界 | [课程](https://openbuild.xyz/learn/challenges/2060691796/1740467134) | [task1](./task/task1.md)
 
 
-**第二章：Solidity 快速入门** |  [课件](https://file-cdn.openbuild.xyz/course/2060691796/Monad101_%E8%B5%B0%E8%BF%9BWeb3%E4%B8%96%E7%95%8C.pdf)
+**第二章：Solidity 快速入门** |  [课件](https://file-cdn.openbuild.xyz/course/2060691796/Monad101_Solidity%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.pdf)
 
 1. 基础知识 | [课程](https://openbuild.xyz/learn/challenges/2060691796/1740467370) |  [task2](./task/task2.md)
 2. 工程实践
