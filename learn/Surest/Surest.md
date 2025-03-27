@@ -1,6 +1,6 @@
 ## Surest
 
-- 昵称： 尘锋 
+- 昵称： Surest 
 - GitHub 用户名： surest-sky
 - 技术栈： PHP、Javascript、Nodejs、Flutter
 - Twitter:  surest88
