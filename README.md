@@ -57,7 +57,7 @@
 **第二章：Solidity 快速入门** |  [课件](https://file-cdn.openbuild.xyz/course/2060691796/Monad101_Solidity%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.pdf) | [课程](https://openbuild.xyz/learn/challenges/2060691796/1740467370) |  [task2](./task/task2.md)
 
 
-**第三章：Solidity 开发到部署**
+**第三章：Solidity 开发到部署**  |  [课程](https://openbuild.xyz/learn/challenges/2060691796/1740467534) |  [task3](./task/task3.md)
 
 
 **第四章：Web3 前端 101**
