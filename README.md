@@ -5,7 +5,7 @@
 
 ## Introduction
 
-本次「Monad 101 Bootcamp」由 [Monad](https://www.monad.xyz/) 和 [OpenBuild](https://openbuild.xyz/) 共同发起。通过系统的课程和共同学习机制，帮助更多开发者丝滑进入Web3。与此同时，本训练营以实战为导向，一步步熟悉和掌握 Web3 代码开发。 [了解更多](https://mp.weixin.qq.com/s/ZPdxMZLFhqlWkfgZaj_cIg)
+本次「Monad 101 Bootcamp」由 [Monad](https://www.monad.xyz/) 和 [OpenBuild](https://openbuild.xyz/) 共同发起。通过系统的课程和共同学习机制，帮助更多开发者丝滑进入Web3。与此同时，本训练营以实战为导向，一步步熟悉和掌握 Web3 代码开发。 [了解更多](https://gmonad.cc/event/monad101/bootcamp.html)
 
 ![bootcamp](./public/bootcamp.png)
 
@@ -51,27 +51,19 @@
 
 ### ⭐ 课程大纲 ⭐
 
-**第一章：走进 Web3 世界** 
-
-1. 走进 Web3 世界 | [课程](https://openbuild.xyz/learn/challenges/2060691796/1740467134) | [task1](./task/task1.md)
+**第一章：走进 Web3 世界**  |  [课件](https://file-cdn.openbuild.xyz/course/2060691796/Monad101_%E8%B5%B0%E8%BF%9BWeb3%E4%B8%96%E7%95%8C.pdf) | [课程](https://openbuild.xyz/learn/challenges/2060691796/1740467134) | [task1](./task/task1.md)
 
 
-**第二章：Solidity 快速入门**
-
-1. 基础知识 | [课程](https://openbuild.xyz/learn/challenges/2060691796/1740467370) |  [task2](./task/task2.md)
-2. 工程实践
+**第二章：Solidity 快速入门** |  [课件](https://file-cdn.openbuild.xyz/course/2060691796/Monad101_Solidity%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.pdf) | [课程](https://openbuild.xyz/learn/challenges/2060691796/1740467370) |  [task2](./task/task2.md)
 
 
-**第三章：Solidity 开发到部署**
-
-1. Solidity 开发到部署
+**第三章：Solidity 开发到部署**  |  [课程](https://openbuild.xyz/learn/challenges/2060691796/1740467534) |  [task3](./task/task3.md)
 
 
 **第四章：Web3 前端 101**
 
-1. 基础知识
-2. 常用库/工具
-3. 如何与 DApps 进行交互
+1. 基础知识和常用库/工具  
+2. 开发 DApp 前端项目  
 
 
 **第五章：Monad 101**
