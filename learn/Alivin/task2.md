@@ -10,13 +10,13 @@
 
 ### 二、选择题
 
-4. 函数选择器(selector)的计算方法是：  
+4. 函数选择器(selector)的计算方法是： B
    **A)** sha3(函数签名)  
    **B)** 函数名哈希的前 4 字节  
    **C)** 函数参数的 ABI 编码  
    **D)** 函数返回值的类型哈希
 
-5. 以下关于 mapping 的叙述错误的是：  
+5. 以下关于 mapping 的叙述错误的是： C
    **A)** 键类型可以是任意基本类型  
    **B)** 值类型支持嵌套 mapping  
    **C)** 可以通过`length`属性获取大小  
@@ -36,8 +36,6 @@
    | 错误处理 | 可以提供错误信息                             | 严重的错误，通常意味着代码中存在 bug | 可以提供自定义错误信息              |
    | 示例场景 | 检查转账金额、检查调用者权限等               | 检查状态、数学运算溢出等             | 复杂的条件判断需要回滚时            |
 
-   
-
 7. 某合约同时继承 A 和 B 合约，两者都有`foo()`函数：
 
 ```solidity
@@ -48,17 +46,15 @@ contract C is A, B {
 
 实际执行时会调用哪个父合约的函数？为什么？
 
-B,  solidity 继承原则是从左到右以最基础到最派生，根据`最远派生优先` 原则，优先执行B合约的foo函数
-
-
+B, solidity 继承原则是从左到右以最基础到最派生，根据`最远派生优先` 原则，优先执行 B 合约的 foo 函数
 
 8. 当使用`call`方法发送 ETH 时，以下两种写法有何本质区别？
 
 ```solidity
-(1) addr.call{value: 1 ether}("") 
+(1) addr.call{value: 1 ether}("")
 (2) addr.transfer(1 ether)
 ```
 
-1. gas 上， transfer有2300gas的限制， call则没有限制，可以转发所有gas ,支持复杂的接收逻辑
-2. 错误处理，transfer, 发送失败后会自动回滚交易，call 则返回 `( bool success, bytes memory data)`  ,需要根据返回的布尔值手动处理
-3.  transfer 可能会因为以太坊升级而导致gas不够用， 推荐使用call 发送， call配合 CEI , 防重入锁，手动更好的进行错误处理。
+1. gas 上， transfer 有 2300gas 的限制， call 则没有限制，可以转发所有 gas ,支持复杂的接收逻辑
+2. 错误处理，transfer, 发送失败后会自动回滚交易，call 则返回 `( bool success, bytes memory data)` ,需要根据返回的布尔值手动处理
+3. transfer 可能会因为以太坊升级而导致 gas 不够用， 推荐使用 call 发送， call 配合 CEI , 防重入锁，手动更好的进行错误处理。
